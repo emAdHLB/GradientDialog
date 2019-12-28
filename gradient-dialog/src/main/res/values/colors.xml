@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorInfo">#29B6F6</color>
+    <color name="colorError">#EF5350</color>
+
+    <color name="color_success">#4CAF50</color>
+
+
+    <color name="md_white_1000">#FFFFFF</color>
+
+    <color name="dialog_bg_start_color">#4481eb</color>
+    <color name="dialog_bg_end_color">#04befe</color>
+</resources>

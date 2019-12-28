@@ -1,0 +1,2 @@
+include ':app', ':gradient-dialog'
+rootProject.name='GradientDialogExample'
