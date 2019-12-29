@@ -12,7 +12,7 @@ A fully customizable Android dialog
 <img src="https://github.com/emAdHLB/GradientDialog-Android/blob/master/images/3.gif" width="200">
 
 ## Download
-[![](https://jitpack.io/v/emAdHLB/GradientDialog-Android.svg)](https://jitpack.io/#emAdHLB/GradientDialog-Android)
+[![](https://jitpack.io/v/emAdHLB/GradientDialog.svg)](https://jitpack.io/#emAdHLB/GradientDialog)
 
 -  Gradle
 
@@ -31,7 +31,7 @@ Step 2. Add the dependency
 ```gradle
 
 dependencies {
-	        implementation 'com.github.emAdHLB:GradientDialog-Android:0.1.0'
+	        implementation 'com.github.emAdHLB:GradientDialog:0.1.0'
 	}
 ```
 
@@ -54,13 +54,13 @@ Step 2. Add the dependency
   ```maven
 	<dependency>
 	    <groupId>com.github.emAdHLB</groupId>
-	    <artifactId>GradientDialog-Android</artifactId>
+	    <artifactId>GradientDialog</artifactId>
 	    <version>0.1.0</version>
 	</dependency>
 ```
 ## Usage
 
-[![Hits-of-Code](https://hitsofcode.com/github/emAdHLB/GradientDialog-Android)](https://hitsofcode.com/view/github/emAdHLB/GradientDialog-Android)
+[![Hits-of-Code](https://hitsofcode.com/github/emAdHLB/GradientDialog)](https://hitsofcode.com/view/github/emAdHLB/GradientDialog)
 
 - Kotlin
 
