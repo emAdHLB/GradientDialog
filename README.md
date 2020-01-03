@@ -9,7 +9,7 @@ A fully customizable Android dialog
 
 ## Preview
 
-<img src="https://github.com/emAdHLB/GradientDialog-Android/blob/master/images/3.gif" width="200">
+<img src="https://github.com/emAdHLB/GradientDialog-Android/blob/master/images/3.gif" width="300">
 
 ## Download
 [![](https://jitpack.io/v/emAdHLB/GradientDialog.svg)](https://jitpack.io/#emAdHLB/GradientDialog)
